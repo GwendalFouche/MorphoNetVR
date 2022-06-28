@@ -1,6 +1,6 @@
 # MorphoNetVR
 
-MorphoNetVR is a software made at Inria Centre Rennes Bretagne Atlantique research lab, based on MorphoNet (https://morphonet.org/). As MorphoNet, this software is made for the exploration of 3D and 3D temporal segmented datasets, but uses a VR interface and explores new visualization methods adapted to such interface.
+MorphoNetVR is a software made at Inria Centre Rennes Bretagne Atlantique research lab, based on MorphoNet (https://morphonet.org/). As MorphoNet, this software is made for the exploration of 3D and 3D temporal segmented datasets, but also uses a VR interface and explores new interactive visualization methods adapted to such interface.
 
 The built demo is coming soon.
 
