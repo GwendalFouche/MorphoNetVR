@@ -12,9 +12,8 @@ People involved in the development of this application:
 
 Publications related:
  - Timeline Design Space for Immersive Exploration of Time-Varying Spatial 3D Data (https://doi.org/10.48550/arXiv.2206.09910)
- - Immersive and Interactive Visualization of 3D Spatio-Temporal Data using a Space Time Hypercube (DOI coming soon)
+ - Immersive and Interactive Visualization of 3D Spatio-Temporal Data using a Space Time Hypercube (https://doi.org/10.48550/arXiv.2206.13213)
  
- Data available in the software: coming soon
- 
- 
+ Data available in the demo: coming soon
+  
  >DISCLAIMER: This software is a prototype and can be subject to bugs or lags. Sorry in advance.
